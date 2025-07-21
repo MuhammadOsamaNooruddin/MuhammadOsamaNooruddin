@@ -3,7 +3,7 @@
   <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <img
       alt="Muhammad Osama Noor Uddin"
-      src="./assets/githubCover.png"
+      src="./assets/cover.png"
       width="100%"
       height="315px"
     />
@@ -44,7 +44,7 @@
 
 - I'm currently learning **Next.js**
 
-- All of my projects are available at [https://github.com/MuhammadOsamaNooruddin](https://www.linkedin.com/in/muhammad-osama-noor-uddin-1908741b4/)
+- All of my projects are available at [https://github.com/MuhammadOsamaNooruddin](https://github.com/MuhammadOsamaNooruddin)
 
 
 - 💬 Ask me about **react, javascript, typescript**
